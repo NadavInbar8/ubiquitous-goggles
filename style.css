@@ -1,6 +1,10 @@
 body {
-  background-color: crimson;
+  height: 99vh;
+  width: 99vw;
+  background-color: rgb(154, 17, 44);
   color: white;
+  display: flex;
+  justify-content: center;
 }
 
 h1 {
