@@ -1,4 +1,8 @@
 body {
   background-color: crimson;
-  color:white;
+  color: white;
+}
+
+h1 {
+  font-family: 'Times New Roman', Times, serif;
 }
